@@ -40,6 +40,8 @@ The data collected can be valuable for:
 
     This shows aircraft parts output.
     https://github.com/nguyaisharon/Web-scraping-/blob/main/pilot%20shop%20scraped%20data.PNG?raw=true
+    <img width="1448" height="766" alt="image" src="https://github.com/user-attachments/assets/bfbc9496-56cf-44e0-ac6f-dea6b72ef22d" />
+
 
 
 ## Tools & Libraries Used
