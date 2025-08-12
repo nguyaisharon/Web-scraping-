@@ -43,6 +43,7 @@ The data collected can be valuable for:
     <img width="1448" height="766" alt="image" src="https://github.com/user-attachments/assets/bfbc9496-56cf-44e0-ac6f-dea6b72ef22d" />
 
 
+You can run it in google colab.(https://colab.research.google.com/drive/1i9Pjgl9GR1Q3YLo4sl74LqdzPqGzoILd#scrollTo=_U7q8-nQ9M60)
 
 ## Tools & Libraries Used
 - **Python**
