@@ -36,7 +36,10 @@ The data collected can be valuable for:
 - Handles pagination for multi-page categories.
 - Saves results as:
   - **Category-specific CSV files**.All categories data have been seperated
-  - **Combined CSV file** containing all categories. There is combined data for the 5 categories. 
+  - **Combined CSV file** containing all categories. There is combined data for the 5 categories.
+
+    This shows aircraft parts output.
+    https://github.com/nguyaisharon/Web-scraping-/blob/main/pilot%20shop%20scraped%20data.PNG?raw=true
 
 
 ## Tools & Libraries Used
